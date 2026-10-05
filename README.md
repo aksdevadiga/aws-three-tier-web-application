@@ -23,7 +23,7 @@ The infrastructure is deployed across multiple Availability Zones using public a
 ### Architecture Flow
 
 User
-↓
+  ↓
 GoDaddy Domain
 ↓
 Route 53
