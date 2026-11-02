@@ -18,7 +18,7 @@ The infrastructure is deployed across multiple Availability Zones using public a
 
 ## Architecture
 
-![AWS Three-Tier Architecture]([architecture/architecture-diagram.png](https://github.com/aksdevadiga/aws-three-tier-web-application/blob/main/architectue/architecture-diagram.png))
+![AWS Three-Tier Architecture]([architectue/architecture-diagram.png](https://github.com/aksdevadiga/aws-three-tier-web-application/blob/main/architectue/architecture-diagram.png))
 
 ### Architecture Flow
 
